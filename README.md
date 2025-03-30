@@ -1,4 +1,5 @@
 # demo
-This is  my first repository
+
+This is my first repository
 <br/>
-Author - Ravi Kumar (Web Developer)
+Author - Ravi Kumar (Web Developer, app developer)
